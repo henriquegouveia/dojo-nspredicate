@@ -1,0 +1,1178 @@
+ [
+  {
+  "firstName": "Fischer",
+  "lastName": "Faulkner",
+  "balance": 1149.39,
+  "age": 27,
+  "gender": "male",
+  "company": "MONDICIL",
+  "email": "fischerfaulkner@mondicil.com",
+  "friends": [
+              {
+              "firstName": "Keith",
+              "lastName": "Armstrong"
+              },
+              {
+              "firstName": "Chris",
+              "lastName": "Gilbert"
+              },
+              {
+              "firstName": "Kenya",
+              "lastName": "Cruz"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Duncan",
+  "lastName": "Bauer",
+  "balance": 1160.6,
+  "age": 37,
+  "gender": "male",
+  "company": "EVIDENDS",
+  "email": "duncanbauer@evidends.com",
+  "friends": [
+              {
+              "firstName": "Vivian",
+              "lastName": "Kelly"
+              },
+              {
+              "firstName": "Delia",
+              "lastName": "Barnett"
+              },
+              {
+              "firstName": "Grant",
+              "lastName": "Reeves"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Baird",
+  "lastName": "Roberts",
+  "balance": 3842.37,
+  "age": 29,
+  "gender": "male",
+  "company": "ARTIQ",
+  "email": "bairdroberts@artiq.com",
+  "friends": [
+              {
+              "firstName": "Blevins",
+              "lastName": "Hutchinson"
+              },
+              {
+              "firstName": "Blackwell",
+              "lastName": "Evans"
+              },
+              {
+              "firstName": "Tiffany",
+              "lastName": "Matthews"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Angelica",
+  "lastName": "Patterson",
+  "balance": 2577.81,
+  "age": 37,
+  "gender": "female",
+  "company": "ZENTILITY",
+  "email": "angelicapatterson@zentility.com",
+  "friends": [
+              {
+              "firstName": "Nannie",
+              "lastName": "Valencia"
+              },
+              {
+              "firstName": "Jeri",
+              "lastName": "Arnold"
+              },
+              {
+              "firstName": "Nolan",
+              "lastName": "Boyer"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Kennedy",
+  "lastName": "Pollard",
+  "balance": 1714.87,
+  "age": 34,
+  "gender": "male",
+  "company": "FURNIGEER",
+  "email": "kennedypollard@furnigeer.com",
+  "friends": [
+              {
+              "firstName": "Macias",
+              "lastName": "Glass"
+              },
+              {
+              "firstName": "Opal",
+              "lastName": "Weeks"
+              },
+              {
+              "firstName": "Edna",
+              "lastName": "Short"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Karina",
+  "lastName": "Paul",
+  "balance": 1640.7,
+  "age": 30,
+  "gender": "female",
+  "company": "VALREDA",
+  "email": "karinapaul@valreda.com",
+  "friends": [
+              {
+              "firstName": "Josefa",
+              "lastName": "Norman"
+              },
+              {
+              "firstName": "Shari",
+              "lastName": "Sullivan"
+              },
+              {
+              "firstName": "Leanne",
+              "lastName": "Mccray"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Deborah",
+  "lastName": "Holland",
+  "balance": 3217.48,
+  "age": 32,
+  "gender": "female",
+  "company": "KYAGURU",
+  "email": "deborahholland@kyaguru.com",
+  "friends": [
+              {
+              "firstName": "Stokes",
+              "lastName": "Salinas"
+              },
+              {
+              "firstName": "Clarissa",
+              "lastName": "Keller"
+              },
+              {
+              "firstName": "Janelle",
+              "lastName": "Britt"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Jillian",
+  "lastName": "Navarro",
+  "balance": 33020.28,
+  "age": 26,
+  "gender": "female",
+  "company": "MANGLO",
+  "email": "jilliannavarro@manglo.com",
+  "friends": [
+              {
+              "firstName": "Karyn",
+              "lastName": "Jimenez"
+              },
+              {
+              "firstName": "Janet",
+              "lastName": "Vincent"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Silva",
+  "lastName": "Murray",
+  "balance": 3628.67,
+  "age": 34,
+  "gender": "male",
+  "company": "PETIGEMS",
+  "email": "silvamurray@petigems.com",
+  "friends": [
+              {
+              "firstName": "Viola",
+              "lastName": "Vazquez"
+              },
+              {
+              "firstName": "Reva",
+              "lastName": "Stanton"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Wiggins",
+  "lastName": "Vasquez",
+  "balance": 1906.89,
+  "age": 35,
+  "gender": "male",
+  "company": "JAMNATION",
+  "email": "wigginsvasquez@jamnation.com",
+  "friends": [
+              {
+              "firstName": "Rosales",
+              "lastName": "Sherman"
+              },
+              {
+              "firstName": "Lizzie",
+              "lastName": "Franco"
+              },
+              {
+              "firstName": "Patterson",
+              "lastName": "Avery"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Higgins",
+  "lastName": "Collins",
+  "balance": 3144.2,
+  "age": 21,
+  "gender": "male",
+  "company": "ACCEL",
+  "email": "higginscollins@accel.com",
+  "friends": [
+              {
+              "firstName": "Pauline",
+              "lastName": "Carpenter"
+              },
+              {
+              "firstName": "Lee",
+              "lastName": "Jacobson"
+              },
+              {
+              "firstName": "Theresa",
+              "lastName": "Gutierrez"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Lang",
+  "lastName": "Stephens",
+  "balance": 2416.55,
+  "age": 21,
+  "gender": "male",
+  "company": "NURPLEX",
+  "email": "langstephens@nurplex.com",
+  "friends": [
+              {
+              "firstName": "Yang",
+              "lastName": "White"
+              },
+              {
+              "firstName": "Herrera",
+              "lastName": "Hale"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Nanette",
+  "lastName": "Sawyer",
+  "balance": 1548.87,
+  "age": 30,
+  "gender": "female",
+  "company": "BARKARAMA",
+  "email": "nanettesawyer@barkarama.com",
+  "friends": [
+              {
+              "firstName": "Willa",
+              "lastName": "Lowery"
+              },
+              {
+              "firstName": "Pamela",
+              "lastName": "Blankenship"
+              },
+              {
+              "firstName": "Barnes",
+              "lastName": "Kaufman"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Downs",
+  "lastName": "Fitzpatrick",
+  "balance": 3020.22,
+  "age": 24,
+  "gender": "male",
+  "company": "BITTOR",
+  "email": "downsfitzpatrick@bittor.com",
+  "friends": [
+              {
+              "firstName": "Madge",
+              "lastName": "Farley"
+              },
+              {
+              "firstName": "Willis",
+              "lastName": "Foreman"
+              },
+              {
+              "firstName": "Clara",
+              "lastName": "Clay"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Montoya",
+  "lastName": "Joseph",
+  "balance": 1611.62,
+  "age": 24,
+  "gender": "male",
+  "company": "ZENTIA",
+  "email": "montoyajoseph@zentia.com",
+  "friends": [
+              {
+              "firstName": "Myra",
+              "lastName": "Dalton"
+              },
+              {
+              "firstName": "Lane",
+              "lastName": "Travis"
+              },
+              {
+              "firstName": "Rhoda",
+              "lastName": "Wheeler"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Amy",
+  "lastName": "Burgess",
+  "balance": 3734.72,
+  "age": 21,
+  "gender": "female",
+  "company": "VENDBLEND",
+  "email": "amyburgess@vendblend.com",
+  "friends": [
+              {
+              "firstName": "Mcneil",
+              "lastName": "Hinton"
+              },
+              {
+              "firstName": "Dorothea",
+              "lastName": "Sampson"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Guadalupe",
+  "lastName": "Swanson",
+  "balance": 3683.31,
+  "age": 21,
+  "gender": "female",
+  "company": "WAZZU",
+  "email": "guadalupeswanson@wazzu.com",
+  "friends": [
+              {
+              "firstName": "Terry",
+              "lastName": "Contreras"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Mai",
+  "lastName": "Bentley",
+  "balance": 3621.68,
+  "age": 39,
+  "gender": "female",
+  "company": "GRONK",
+  "email": "maibentley@gronk.com",
+  "friends": [
+              {
+              "firstName": "Jacobson",
+              "lastName": "Martinez"
+              },
+              {
+              "firstName": "Samantha",
+              "lastName": "Tran"
+              },
+              {
+              "firstName": "Perez",
+              "lastName": "Spears"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Helga",
+  "lastName": "Cohen",
+  "balance": 3518.53,
+  "age": 33,
+  "gender": "female",
+  "company": "GOKO",
+  "email": "helgacohen@goko.com",
+  "friends": [
+              {
+              "firstName": "Decker",
+              "lastName": "Whitaker"
+              },
+              {
+              "firstName": "Kelli",
+              "lastName": "Oneill"
+              },
+              {
+              "firstName": "Kaitlin",
+              "lastName": "Savage"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Stone",
+  "lastName": "Hurley",
+  "balance": 2606.16,
+  "age": 34,
+  "gender": "male",
+  "company": "QUILTIGEN",
+  "email": "stonehurley@quiltigen.com",
+  "friends": [
+              {
+              "firstName": "Barrett",
+              "lastName": "Rosales"
+              },
+              {
+              "firstName": "Darla",
+              "lastName": "Gonzales"
+              },
+              {
+              "firstName": "Webster",
+              "lastName": "Ortega"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Sadie",
+  "lastName": "Nixon",
+  "balance": 3751.63,
+  "age": 23,
+  "gender": "female",
+  "company": "ISOLOGIA",
+  "email": "sadienixon@isologia.com",
+  "friends": [
+              {
+              "firstName": "Marissa",
+              "lastName": "Baker"
+              },
+              {
+              "firstName": "Ida",
+              "lastName": "Delacruz"
+              },
+              {
+              "firstName": "Eddie",
+              "lastName": "Snow"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Powell",
+  "lastName": "Graves",
+  "balance": 1970.4,
+  "age": 34,
+  "gender": "male",
+  "company": "NIXELT",
+  "email": "powellgraves@nixelt.com",
+  "friends": [
+              {
+              "firstName": "Kinney",
+              "lastName": "Valdez"
+              },
+              {
+              "firstName": "Charles",
+              "lastName": "Whitley"
+              },
+              {
+              "firstName": "Sherri",
+              "lastName": "Freeman"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Kelley",
+  "lastName": "Hardy",
+  "balance": 3404.35,
+  "age": 40,
+  "gender": "female",
+  "company": "KIDSTOCK",
+  "email": "kelleyhardy@kidstock.com",
+  "friends": [
+              {
+              "firstName": "Anastasia",
+              "lastName": "Reyes"
+              },
+              {
+              "firstName": "Ward",
+              "lastName": "Rollins"
+              },
+              {
+              "firstName": "Rodriguez",
+              "lastName": "Adkins"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Jaime",
+  "lastName": "Irwin",
+  "balance": 1021.09,
+  "age": 26,
+  "gender": "female",
+  "company": "DIGIAL",
+  "email": "jaimeirwin@digial.com",
+  "friends": [
+              {
+              "firstName": "Stuart",
+              "lastName": "Meadows"
+              },
+              {
+              "firstName": "Rios",
+              "lastName": "Alston"
+              },
+              {
+              "firstName": "Shelton",
+              "lastName": "Christian"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Hensley",
+  "lastName": "Santos",
+  "balance": 1204.1,
+  "age": 28,
+  "gender": "male",
+  "company": "JIMBIES",
+  "email": "hensleysantos@jimbies.com",
+  "friends": [
+              {
+              "firstName": "Sexton",
+              "lastName": "Whitfield"
+              },
+              {
+              "firstName": "Tonia",
+              "lastName": "Mcleod"
+              },
+              {
+              "firstName": "Jill",
+              "lastName": "Trujillo"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Edith",
+  "lastName": "David",
+  "balance": 1542.17,
+  "age": 36,
+  "gender": "female",
+  "company": "ISOTERNIA",
+  "email": "edithdavid@isoternia.com",
+  "friends": [
+              {
+              "firstName": "Doris",
+              "lastName": "Campos"
+              },
+              {
+              "firstName": "Pitts",
+              "lastName": "York"
+              },
+              {
+              "firstName": "Wilma",
+              "lastName": "Mercado"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Ware",
+  "lastName": "Washington",
+  "balance": 3166.2,
+  "age": 25,
+  "gender": "male",
+  "company": "ZYTRAC",
+  "email": "warewashington@zytrac.com",
+  "friends": [
+              {
+              "firstName": "Warren",
+              "lastName": "Perkins"
+              },
+              {
+              "firstName": "Solis",
+              "lastName": "Whitney"
+              },
+              {
+              "firstName": "Berg",
+              "lastName": "Walter"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Brady",
+  "lastName": "Dudley",
+  "balance": 2754.48,
+  "age": 35,
+  "gender": "male",
+  "company": "ZIGGLES",
+  "email": "bradydudley@ziggles.com",
+  "friends": [
+              {
+              "firstName": "Claudine",
+              "lastName": "Riley"
+              },
+              {
+              "firstName": "Milagros",
+              "lastName": "Love"
+              },
+              {
+              "firstName": "Shaw",
+              "lastName": "Hyde"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Rosie",
+  "lastName": "Bass",
+  "balance": 1320.05,
+  "age": 29,
+  "gender": "female",
+  "company": "DIGINETIC",
+  "email": "rosiebass@diginetic.com",
+  "friends": [
+              {
+              "firstName": "Hayden",
+              "lastName": "Bates"
+              },
+              {
+              "firstName": "Katherine",
+              "lastName": "Diaz"
+              },
+              {
+              "firstName": "Mcbride",
+              "lastName": "Decker"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Johnnie",
+  "lastName": "Hammond",
+  "balance": 2275.32,
+  "age": 21,
+  "gender": "female",
+  "company": "XELEGYL",
+  "email": "johnniehammond@xelegyl.com",
+  "friends": [
+              {
+              "firstName": "Warner",
+              "lastName": "Sykes"
+              },
+              {
+              "firstName": "Hurst",
+              "lastName": "Marsh"
+              },
+              {
+              "firstName": "Christina",
+              "lastName": "Robbins"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Mable",
+  "lastName": "Moss",
+  "balance": 3942.04,
+  "age": 30,
+  "gender": "female",
+  "company": "DADABASE",
+  "email": "mablemoss@dadabase.com",
+  "friends": [
+              {
+              "firstName": "Collier",
+              "lastName": "Hartman"
+              },
+              {
+              "firstName": "Shannon",
+              "lastName": "Thompson"
+              },
+              {
+              "firstName": "Johanna",
+              "lastName": "French"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Knox",
+  "lastName": "Chaney",
+  "balance": 3347.7,
+  "age": 37,
+  "gender": "male",
+  "company": "EXOTERIC",
+  "email": "knoxchaney@exoteric.com",
+  "friends": [
+              {
+              "firstName": "Bianca",
+              "lastName": "Castaneda"
+              },
+              {
+              "firstName": "Huber",
+              "lastName": "Stevens"
+              },
+              {
+              "firstName": "Courtney",
+              "lastName": "Solis"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "David",
+  "lastName": "Sargent",
+  "balance": 52867.65,
+  "age": 34,
+  "gender": "male",
+  "company": "ENDIPIN",
+  "email": "davidsargent@endipin.com",
+  "friends": [
+              {
+              "firstName": "Blanca",
+              "lastName": "Mcclain"
+              },
+              {
+              "firstName": "Pearson",
+              "lastName": "Harris"
+              },
+              {
+              "firstName": "Jacquelyn",
+              "lastName": "Brock"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Summers",
+  "lastName": "Riggs",
+  "balance": 3431.45,
+  "age": 22,
+  "gender": "male",
+  "company": "OMNIGOG",
+  "email": "summersriggs@omnigog.com",
+  "friends": [
+              {
+              "firstName": "Jane",
+              "lastName": "House"
+              },
+              {
+              "firstName": "Thompson",
+              "lastName": "Barrera"
+              },
+              {
+              "firstName": "Garza",
+              "lastName": "Ford"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Larson",
+  "lastName": "Schmidt",
+  "balance": 2330.23,
+  "age": 31,
+  "gender": "male",
+  "company": "GINKOGENE",
+  "email": "larsonschmidt@ginkogene.com",
+  "friends": [
+              {
+              "firstName": "Joyce",
+              "lastName": "Alvarez"
+              },
+              {
+              "firstName": "Byers",
+              "lastName": "Villarreal"
+              },
+              {
+              "firstName": "Violet",
+              "lastName": "Padilla"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Pena",
+  "lastName": "Patrick",
+  "balance": 3963.26,
+  "age": 37,
+  "gender": "male",
+  "company": "EZENTIA",
+  "email": "penapatrick@ezentia.com",
+  "friends": [
+              {
+              "firstName": "Johnson",
+              "lastName": "Robinson"
+              },
+              {
+              "firstName": "Kim",
+              "lastName": "Stewart"
+              },
+              {
+              "firstName": "Saunders",
+              "lastName": "Acevedo"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Rosa",
+  "lastName": "Barlow",
+  "balance": 3944,
+  "age": 30,
+  "gender": "female",
+  "company": "NAMEGEN",
+  "email": "rosabarlow@namegen.com",
+  "friends": [
+              {
+              "firstName": "Dixon",
+              "lastName": "Mayo"
+              },
+              {
+              "firstName": "Susie",
+              "lastName": "Lynch"
+              },
+              {
+              "firstName": "Francis",
+              "lastName": "Rice"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Juarez",
+  "lastName": "Orr",
+  "balance": 2916.48,
+  "age": 22,
+  "gender": "male",
+  "company": "BUZZNESS",
+  "email": "juarezorr@buzzness.com",
+  "friends": [
+              {
+              "firstName": "Diann",
+              "lastName": "Leonard"
+              },
+              {
+              "firstName": "Mercedes",
+              "lastName": "Henderson"
+              },
+              {
+              "firstName": "Foreman",
+              "lastName": "Buchanan"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Carole",
+  "lastName": "Estrada",
+  "balance": 2807.07,
+  "age": 37,
+  "gender": "female",
+  "company": "FIREWAX",
+  "email": "caroleestrada@firewax.com",
+  "friends": [
+              {
+              "firstName": "Toni",
+              "lastName": "Garcia"
+              },
+              {
+              "firstName": "Dianna",
+              "lastName": "Wilson"
+              },
+              {
+              "firstName": "Bette",
+              "lastName": "Lara"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Alma",
+  "lastName": "Bowen",
+  "balance": 3907.69,
+  "age": 40,
+  "gender": "female",
+  "company": "RECRISYS",
+  "email": "almabowen@recrisys.com",
+  "friends": [
+              {
+              "firstName": "Gonzales",
+              "lastName": "English"
+              },
+              {
+              "firstName": "Candace",
+              "lastName": "Durham"
+              },
+              {
+              "firstName": "Frye",
+              "lastName": "Rodgers"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Rebekah",
+  "lastName": "Landry",
+  "balance": 3814.8,
+  "age": 37,
+  "gender": "female",
+  "company": "EXERTA",
+  "email": "rebekahlandry@exerta.com",
+  "friends": [
+              {
+              "firstName": "Hewitt",
+              "lastName": "Haney"
+              },
+              {
+              "firstName": "Abigail",
+              "lastName": "Cameron"
+              },
+              {
+              "firstName": "Georgette",
+              "lastName": "Holder"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Lara",
+  "lastName": "Montgomery",
+  "balance": 1394.06,
+  "age": 21,
+  "gender": "female",
+  "company": "ZBOO",
+  "email": "laramontgomery@zboo.com",
+  "friends": [
+              {
+              "firstName": "Frazier",
+              "lastName": "Frederick"
+              },
+              {
+              "firstName": "Harper",
+              "lastName": "Perry"
+              },
+              {
+              "firstName": "Lesley",
+              "lastName": "Bowman"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Castro",
+  "lastName": "Parks",
+  "balance": 2555.78,
+  "age": 31,
+  "gender": "male",
+  "company": "TRASOLA",
+  "email": "castroparks@trasola.com",
+  "friends": [
+              {
+              "firstName": "Massey",
+              "lastName": "Bell"
+              },
+              {
+              "firstName": "Geneva",
+              "lastName": "Wyatt"
+              },
+              {
+              "firstName": "Alisa",
+              "lastName": "Cleveland"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Burgess",
+  "lastName": "Sosa",
+  "balance": 3757.48,
+  "age": 26,
+  "gender": "male",
+  "company": "TERRAGEN",
+  "email": "burgesssosa@terragen.com",
+  "friends": [
+              {
+              "firstName": "Crystal",
+              "lastName": "Mcgee"
+              },
+              {
+              "firstName": "Cherie",
+              "lastName": "Young"
+              },
+              {
+              "firstName": "Katharine",
+              "lastName": "Powers"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Pugh",
+  "lastName": "Wolfe",
+  "balance": 2486.37,
+  "age": 33,
+  "gender": "male",
+  "company": "HOUSEDOWN",
+  "email": "pughwolfe@housedown.com",
+  "friends": [
+              {
+              "firstName": "Roy",
+              "lastName": "Bird"
+              },
+              {
+              "firstName": "Gloria",
+              "lastName": "Burnett"
+              },
+              {
+              "firstName": "Pam",
+              "lastName": "Huff"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Fay",
+  "lastName": "Duncan",
+  "balance": 3527.55,
+  "age": 24,
+  "gender": "female",
+  "company": "QUILITY",
+  "email": "fayduncan@quility.com",
+  "friends": [
+              {
+              "firstName": "Kasey",
+              "lastName": "Oliver"
+              },
+              {
+              "firstName": "Guerra",
+              "lastName": "Mcknight"
+              },
+              {
+              "firstName": "Misty",
+              "lastName": "Walker"
+              }
+              ],
+  "favoriteFruit": "banana"
+  },
+  {
+  "firstName": "Alta",
+  "lastName": "Ellison",
+  "balance": 2005.27,
+  "age": 21,
+  "gender": "female",
+  "company": "ENTHAZE",
+  "email": "altaellison@enthaze.com",
+  "friends": [
+              {
+              "firstName": "Macdonald",
+              "lastName": "Wynn"
+              },
+              {
+              "firstName": "Cornelia",
+              "lastName": "Garrett"
+              },
+              {
+              "firstName": "Owen",
+              "lastName": "Harper"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Durham",
+  "lastName": "Good",
+  "balance": 2228.75,
+  "age": 23,
+  "gender": "male",
+  "company": "GEEKOSIS",
+  "email": "durhamgood@geekosis.com",
+  "friends": [
+              {
+              "firstName": "Juana",
+              "lastName": "Carey"
+              },
+              {
+              "firstName": "Marianne",
+              "lastName": "Grimes"
+              },
+              {
+              "firstName": "Burch",
+              "lastName": "Mccormick"
+              }
+              ],
+  "favoriteFruit": "strawberry"
+  },
+  {
+  "firstName": "Eunice",
+  "lastName": "Hays",
+  "balance": 1716.63,
+  "age": 24,
+  "gender": "female",
+  "company": "ZILLADYNE",
+  "email": "eunicehays@zilladyne.com",
+  "friends": [
+              {
+              "firstName": "Henrique",
+              "lastName": "Gouveia"
+              },
+              {
+              "firstName": "Arlene",
+              "lastName": "Leblanc"
+              },
+              {
+              "firstName": "Nielsen",
+              "lastName": "Ramirez"
+              }
+              ],
+  "favoriteFruit": "apple"
+  },
+  {
+  "firstName": "Malinda",
+  "lastName": "Lane",
+  "balance": 1257.35,
+  "age": 39,
+  "gender": "female",
+  "company": "MITROC",
+  "email": "malindalane@mitroc.com",
+  "friends": [
+              {
+              "firstName": "Dickerson",
+              "lastName": "Estes"
+              },
+              {
+              "firstName": "Robyn",
+              "lastName": "Shannon"
+              },
+              {
+              "firstName": "Marci",
+              "lastName": "Patton"
+              }
+              ],
+  "favoriteFruit": "banana"
+  }
+  ]
