@@ -44,10 +44,7 @@ platform :ios do
       codesigning_identity: code_sign_identity,
       xcargs: "PROVISIONING_PROFILE_SPECIFIER='#{provisioning_profile_specifier}' "\
               "DEVELOPMENT_TEAM='#{development_team}'",
-      derived_data_path: derived_data_path,
-      build_path: build_path,
-      buildlog_path: buildlog_path,
-      output_directory: output_directory
+      output_directory: '~/Desktop'
     )
 
     # sh "your_script.sh"
