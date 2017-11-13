@@ -28,10 +28,11 @@ platform :ios do
     code_sign_identity = 'iPhone Distribution'
     provisioning_profile_specifier = 'AB Inbev Tapwiser QA'
     development_team = '2JFB7H5D45'
+    scheme = 'Dojo-iOS-Basico'
 
     automatic_code_signing(
       path: 'Dojo-iOS-Basico.xcodeproj',
-      targets: 'Dojo-iOS-Basico'
+      targets: scheme
     )
 
     gym(

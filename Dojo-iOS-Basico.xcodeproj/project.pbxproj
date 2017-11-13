@@ -308,7 +308,7 @@
 					BC7426281EDF01660064528D = {
 						CreatedOnToolsVersion = 8.3.1;
 						DevelopmentTeam = 2JFB7H5D45;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
