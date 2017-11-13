@@ -29,6 +29,7 @@ platform :ios do
     provisioning_profile_specifier = 'AB Inbev Tapwiser QA'
     development_team = '2JFB7H5D45'
     scheme = 'Dojo-iOS-Basico'
+    configuration = 'Release'
 
     automatic_code_signing(
       path: 'Dojo-iOS-Basico.xcodeproj',
