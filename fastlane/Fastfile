@@ -25,9 +25,9 @@ platform :ios do
   desc "Submit a new Beta Build to Apple TestFlight"
   desc "This will also make sure the profile is up to date"
   lane :beta do
-    code_sign_identity = options[:code_sign_identity] || 'iPhone Distribution'
+    code_sign_identity = 'iPhone Distribution'
     provisioning_profile_specifier = 'AB Inbev Tapwiser QA'
-    development_team = options[:development_team] || '2JFB7H5D45'
+    development_team = '2JFB7H5D45'
 
     automatic_code_signing(
       path: 'Dojo-iOS-Basico.xcodeproj',
