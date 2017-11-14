@@ -11,7 +11,6 @@
 		BC05D2891EDF95DE00317721 /* Person.m in Sources */ = {isa = PBXBuildFile; fileRef = BC05D2881EDF95DE00317721 /* Person.m */; };
 		BC05D28C1EDF960900317721 /* JSONParser.m in Sources */ = {isa = PBXBuildFile; fileRef = BC05D28B1EDF960900317721 /* JSONParser.m */; };
 		BC05D2951EDF9CA900317721 /* Datasource.m in Sources */ = {isa = PBXBuildFile; fileRef = BC05D2941EDF9CA900317721 /* Datasource.m */; };
-		BC05D2991EDFB11D00317721 /* NSObject+HGCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = BC05D2981EDFB11D00317721 /* NSObject+HGCollection.m */; };
 		BC74262E1EDF01660064528D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BC74262D1EDF01660064528D /* main.m */; };
 		BC7426311EDF01660064528D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BC7426301EDF01660064528D /* AppDelegate.m */; };
 		BC7426371EDF01660064528D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC7426351EDF01660064528D /* Main.storyboard */; };
@@ -46,8 +45,6 @@
 		BC05D28B1EDF960900317721 /* JSONParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONParser.m; sourceTree = "<group>"; };
 		BC05D2931EDF9CA900317721 /* Datasource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Datasource.h; sourceTree = "<group>"; };
 		BC05D2941EDF9CA900317721 /* Datasource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Datasource.m; sourceTree = "<group>"; };
-		BC05D2971EDFB11D00317721 /* NSObject+HGCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+HGCollection.h"; sourceTree = "<group>"; };
-		BC05D2981EDFB11D00317721 /* NSObject+HGCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+HGCollection.m"; sourceTree = "<group>"; };
 		BC7426291EDF01660064528D /* Dojo-iOS-Basico.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dojo-iOS-Basico.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC74262D1EDF01660064528D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BC74262F1EDF01660064528D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -120,8 +117,6 @@
 		BC05D2961EDFB10000317721 /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				BC05D2971EDFB11D00317721 /* NSObject+HGCollection.h */,
-				BC05D2981EDFB11D00317721 /* NSObject+HGCollection.m */,
 			);
 			name = Category;
 			sourceTree = "<group>";
@@ -308,7 +303,7 @@
 					BC7426281EDF01660064528D = {
 						CreatedOnToolsVersion = 8.3.1;
 						DevelopmentTeam = 2JFB7H5D45;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -389,7 +384,6 @@
 				BC7426311EDF01660064528D /* AppDelegate.m in Sources */,
 				BC05D28C1EDF960900317721 /* JSONParser.m in Sources */,
 				BC05D2951EDF9CA900317721 /* Datasource.m in Sources */,
-				BC05D2991EDFB11D00317721 /* NSObject+HGCollection.m in Sources */,
 				BC74262E1EDF01660064528D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -542,11 +536,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Dojo-iOS-Basico/Dojo-iOS-Basico.entitlements";
-				DEVELOPMENT_TEAM = 2JFB7H5D45;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Dojo-iOS-Basico/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ciandt.enterprise.abi-tapwiser-qa";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -555,11 +552,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = "Dojo-iOS-Basico/Dojo-iOS-Basico.entitlements";
-				DEVELOPMENT_TEAM = 2JFB7H5D45;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Dojo-iOS-Basico/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.ciandt.enterprise.abi-tapwiser-qa";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};

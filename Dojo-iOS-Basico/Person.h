@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "NSObject+HGCollection.h"
 
 @interface Person : NSObject
 
